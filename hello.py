@@ -1,10 +1,13 @@
 def toyou(x):
-    return f"hi {x}"
+	return f"hi {x}"
 
 
 def add(x):
-    return x + 1
+	return x + 1
 
 
 def subtract(x):
-    return x - 1
+	return x - 1
+	
+def mul(x,y):
+	return x*y
